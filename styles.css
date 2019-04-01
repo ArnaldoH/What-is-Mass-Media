@@ -1,0 +1,82 @@
+body {
+    background-color: pink;
+}
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;   
+}
+p {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+h3:hover {
+    font-size: 20px;
+    color: blue;
+}
+input {
+    border: none;
+}
+button {
+    border: none;
+    height: 10px;
+}
+.def {
+    font-size: 18px;
+}
+.info1, .info2, .info3, .info4, .info5, .info6, .info7, .info8, .secret {
+    display: none;
+}
+.pic {
+    height: 160px;
+}
+.definition {
+    padding: 1px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: red;
+    border-radius: 100px 100px 0px 0px;
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+}
+.banner {
+    display:block;
+    border: double 5px black;
+    width: 50%;
+    background-color: yellow;
+    text-align: center;
+    margin: 0 auto;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.container {
+    display:flex;
+    border: 2px solid black;
+    margin: 0 auto;
+    width: 80%;
+    height: 600px;
+    background-color: lightblue;
+    margin-bottom: 200px;
+}
+.left-side {
+    width: 40%;
+    height: 100%;
+    background-color: white;
+}
+.columnleft {
+    font-family: 'Noto Sans', sans-serif;
+    text-decoration: underline;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.right-side {
+    width: 60%;
+    height:100%;
+}
+.answer {
+    margin: 10px;
+    padding: 20px;
+}
