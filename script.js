@@ -1,0 +1,87 @@
+$(".first").click(function(){
+    $(".info1").show();
+    $(".info2").hide();
+    $(".info3").hide();
+    $(".info4").hide();
+    $(".info5").hide();
+    $(".info6").hide();
+    $(".info7").hide();
+    $(".info8").hide();
+});
+$(".second").click(function(){
+    $(".info1").hide();
+    $(".info2").show();
+    $(".info3").hide();
+    $(".info4").hide();
+    $(".info5").hide();
+    $(".info6").hide();
+    $(".info7").hide();
+    $(".info8").hide();
+});
+$(".third").click(function(){
+    $(".info1").hide();
+    $(".info2").hide();
+    $(".info3").show();
+    $(".info4").hide();
+    $(".info5").hide();
+    $(".info6").hide();
+    $(".info7").hide();
+    $(".info8").hide();
+});
+$(".fourth").click(function(){
+    $(".info1").hide();
+    $(".info2").hide();
+    $(".info3").hide();
+    $(".info4").show();
+    $(".info5").hide();
+    $(".info6").hide();
+    $(".info7").hide();
+    $(".info8").hide();
+});
+$(".fifth").click(function(){
+    $(".info1").hide();
+    $(".info2").hide();
+    $(".info3").hide();
+    $(".info4").hide();
+    $(".info5").show();
+    $(".info6").hide();
+    $(".info7").hide();
+    $(".info8").hide();
+});
+$(".sixth").click(function(){
+    $(".info1").hide();
+    $(".info2").hide();
+    $(".info3").hide();
+    $(".info4").hide();
+    $(".info5").hide();
+    $(".info6").show();
+    $(".info7").hide();
+    $(".info8").hide();
+});
+$(".seventh").click(function(){
+    $(".info1").hide();
+    $(".info2").hide();
+    $(".info3").hide();
+    $(".info4").hide();
+    $(".info5").hide();
+    $(".info6").hide();
+    $(".info7").show();
+    $(".info8").hide();
+});
+$(".eighth").click(function(){
+    $(".info1").hide();
+    $(".info2").hide();
+    $(".info3").hide();
+    $(".info4").hide();
+    $(".info5").hide();
+    $(".info6").hide();
+    $(".info7").hide();
+    $(".info8").show();
+});
+
+
+
+
+
+
+
